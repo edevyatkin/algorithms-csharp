@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "BallsAndSkyscraper2": {
+    "BallsAndSkyscraper": {
       "commandName": "Project",
       "commandLineArgs": "2 100"
     }

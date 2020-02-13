@@ -12,7 +12,7 @@ using System.Linq;
  * between the element and its index in array
  */
 
-namespace ArrayElementEqualsIndex2
+namespace ArrayElementEqualsIndex.NetCore
 {
     class Program
     {

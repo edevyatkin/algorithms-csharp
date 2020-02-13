@@ -9,7 +9,7 @@
  * Solution using dynamic programming
  */
 
-namespace BallsAndSkyscraper2
+namespace BallsAndSkyscraper.NetCore
 {
     class Program
     {
